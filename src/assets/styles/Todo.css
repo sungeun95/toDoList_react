@@ -1,0 +1,17 @@
+main{
+    background-color: #fff;
+    display: flex;
+    justify-content:space-between;
+    border: 1px solid #888;
+    border-radius: 5px;
+}
+main input{display: block;}
+main input[type=text]{
+    background-color: #fff;
+    padding: 10px 10px;
+    border-radius: 5px;
+    font-size: 0.9rem;
+}
+main button{
+    padding: 10px 10px;
+}

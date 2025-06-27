@@ -1,0 +1,16 @@
+li{
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+    border-bottom: 1px solid #999;
+}
+li input{display: block; margin: 10px;}
+li span{
+    display: block;
+    width: 100%;
+    font-size: 0.9rem;
+}
+li button{
+    display: block;
+    padding: 10px 10px;
+}
